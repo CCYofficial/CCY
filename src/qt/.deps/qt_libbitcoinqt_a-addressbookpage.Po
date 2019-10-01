@@ -1,0 +1,2320 @@
+qt/qt_libbitcoinqt_a-addressbookpage.o: qt/addressbookpage.cpp \
+ config/cryptocurrency-config.h qt/addressbookpage.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QDialog \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qdialog.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qwidget.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qwindowdefs.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h \
+ /usr/include/c++/4.8/cstddef \
+ /usr/include/c++/4.8/x86_64-w64-mingw32/bits/c++config.h \
+ /usr/include/c++/4.8/x86_64-w64-mingw32/bits/os_defines.h \
+ /usr/include/c++/4.8/x86_64-w64-mingw32/bits/cpu_defines.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/4.8/include/stddef.h \
+ /usr/share/mingw-w64/include/stddef.h \
+ /usr/share/mingw-w64/include/crtdefs.h \
+ /usr/share/mingw-w64/include/_mingw.h \
+ /usr/share/mingw-w64/include/_mingw_mac.h \
+ /usr/share/mingw-w64/include/_mingw_secapi.h \
+ /usr/share/mingw-w64/include/vadefs.h \
+ /usr/share/mingw-w64/include/sdks/_mingw_directx.h \
+ /usr/share/mingw-w64/include/sdks/_mingw_ddk.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h \
+ /usr/include/c++/4.8/utility /usr/include/c++/4.8/bits/stl_relops.h \
+ /usr/include/c++/4.8/bits/stl_pair.h /usr/include/c++/4.8/bits/move.h \
+ /usr/include/c++/4.8/bits/concept_check.h \
+ /usr/include/c++/4.8/type_traits /usr/include/c++/4.8/initializer_list \
+ /usr/include/c++/4.8/algorithm /usr/include/c++/4.8/bits/stl_algobase.h \
+ /usr/include/c++/4.8/bits/functexcept.h \
+ /usr/include/c++/4.8/bits/exception_defines.h \
+ /usr/include/c++/4.8/bits/cpp_type_traits.h \
+ /usr/include/c++/4.8/ext/type_traits.h \
+ /usr/include/c++/4.8/ext/numeric_traits.h \
+ /usr/include/c++/4.8/bits/stl_iterator_base_types.h \
+ /usr/include/c++/4.8/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/4.8/debug/debug.h \
+ /usr/include/c++/4.8/bits/stl_iterator.h \
+ /usr/include/c++/4.8/bits/stl_algo.h /usr/include/c++/4.8/cstdlib \
+ /usr/share/mingw-w64/include/stdlib.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/4.8/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/4.8/include-fixed/syslimits.h \
+ /usr/share/mingw-w64/include/limits.h \
+ /usr/share/mingw-w64/include/sec_api/stdlib_s.h \
+ /usr/share/mingw-w64/include/malloc.h \
+ /usr/include/c++/4.8/bits/algorithmfwd.h \
+ /usr/include/c++/4.8/bits/stl_heap.h \
+ /usr/include/c++/4.8/bits/stl_tempbuf.h \
+ /usr/include/c++/4.8/bits/stl_construct.h /usr/include/c++/4.8/new \
+ /usr/include/c++/4.8/exception \
+ /usr/include/c++/4.8/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/4.8/bits/exception_ptr.h \
+ /usr/include/c++/4.8/bits/nested_exception.h \
+ /usr/include/c++/4.8/ext/alloc_traits.h \
+ /usr/include/c++/4.8/bits/alloc_traits.h \
+ /usr/include/c++/4.8/bits/memoryfwd.h \
+ /usr/include/c++/4.8/bits/ptr_traits.h /usr/include/c++/4.8/random \
+ /usr/include/c++/4.8/cmath /usr/share/mingw-w64/include/math.h \
+ /usr/include/c++/4.8/cstdio /usr/share/mingw-w64/include/stdio.h \
+ /usr/share/mingw-w64/include/_mingw_print_push.h \
+ /usr/share/mingw-w64/include/_mingw_off_t.h \
+ /usr/x86_64-w64-mingw32/include/swprintf.inl \
+ /usr/share/mingw-w64/include/sec_api/stdio_s.h \
+ /usr/share/mingw-w64/include/_mingw_print_pop.h \
+ /usr/include/c++/4.8/string /usr/include/c++/4.8/bits/stringfwd.h \
+ /usr/include/c++/4.8/bits/char_traits.h \
+ /usr/include/c++/4.8/bits/postypes.h /usr/include/c++/4.8/cwchar \
+ /usr/share/mingw-w64/include/wchar.h \
+ /usr/share/mingw-w64/include/_mingw_stat64.h \
+ /usr/share/mingw-w64/include/sec_api/wchar_s.h \
+ /usr/include/c++/4.8/cstdint \
+ /usr/lib/gcc/x86_64-w64-mingw32/4.8/include/stdint.h \
+ /usr/share/mingw-w64/include/stdint.h \
+ /usr/include/c++/4.8/bits/allocator.h \
+ /usr/include/c++/4.8/x86_64-w64-mingw32/bits/c++allocator.h \
+ /usr/include/c++/4.8/ext/new_allocator.h \
+ /usr/include/c++/4.8/bits/localefwd.h \
+ /usr/include/c++/4.8/x86_64-w64-mingw32/bits/c++locale.h \
+ /usr/include/c++/4.8/clocale /usr/share/mingw-w64/include/locale.h \
+ /usr/include/c++/4.8/iosfwd /usr/include/c++/4.8/cctype \
+ /usr/share/mingw-w64/include/ctype.h \
+ /usr/include/c++/4.8/bits/ostream_insert.h \
+ /usr/include/c++/4.8/bits/cxxabi_forced.h \
+ /usr/include/c++/4.8/bits/stl_function.h \
+ /usr/include/c++/4.8/backward/binders.h \
+ /usr/include/c++/4.8/bits/range_access.h \
+ /usr/include/c++/4.8/bits/basic_string.h \
+ /usr/include/c++/4.8/ext/atomicity.h \
+ /usr/include/c++/4.8/x86_64-w64-mingw32/bits/gthr.h \
+ /usr/include/c++/4.8/x86_64-w64-mingw32/bits/gthr-default.h \
+ /usr/share/mingw-w64/include/pthread.h \
+ /usr/share/mingw-w64/include/errno.h \
+ /usr/share/mingw-w64/include/sys/types.h \
+ /usr/share/mingw-w64/include/process.h \
+ /usr/share/mingw-w64/include/signal.h \
+ /usr/share/mingw-w64/include/pthread_signal.h \
+ /usr/share/mingw-w64/include/sys/timeb.h \
+ /usr/share/mingw-w64/include/sec_api/sys/timeb_s.h \
+ /usr/share/mingw-w64/include/pthread_compat.h \
+ /usr/share/mingw-w64/include/pthread_unistd.h \
+ /usr/include/c++/4.8/x86_64-w64-mingw32/bits/atomic_word.h \
+ /usr/include/c++/4.8/ext/string_conversions.h \
+ /usr/include/c++/4.8/cerrno /usr/include/c++/4.8/bits/functional_hash.h \
+ /usr/include/c++/4.8/bits/hash_bytes.h \
+ /usr/include/c++/4.8/bits/basic_string.tcc /usr/include/c++/4.8/limits \
+ /usr/include/c++/4.8/bits/random.h /usr/include/c++/4.8/vector \
+ /usr/include/c++/4.8/bits/stl_uninitialized.h \
+ /usr/include/c++/4.8/bits/stl_vector.h \
+ /usr/include/c++/4.8/bits/stl_bvector.h \
+ /usr/include/c++/4.8/bits/vector.tcc \
+ /usr/include/c++/4.8/x86_64-w64-mingw32/bits/opt_random.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/4.8/include/x86intrin.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/4.8/include/ia32intrin.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/4.8/include/mmintrin.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/4.8/include/xmmintrin.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/4.8/include/mm_malloc.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/4.8/include/emmintrin.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/4.8/include/immintrin.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/4.8/include/fxsrintrin.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/4.8/include/adxintrin.h \
+ /usr/include/c++/4.8/bits/random.tcc /usr/include/c++/4.8/numeric \
+ /usr/include/c++/4.8/bits/stl_numeric.h /usr/include/c++/4.8/functional \
+ /usr/include/c++/4.8/typeinfo /usr/include/c++/4.8/tuple \
+ /usr/include/c++/4.8/array /usr/include/c++/4.8/stdexcept \
+ /usr/include/c++/4.8/bits/uses_allocator.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_cxx11.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h \
+ /usr/include/c++/4.8/atomic /usr/include/c++/4.8/bits/atomic_base.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/4.8/include/stdbool.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qversiontagging.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qwindowdefs_win.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h \
+ /usr/share/mingw-w64/include/string.h \
+ /usr/share/mingw-w64/include/sec_api/string_s.h \
+ /usr/lib/gcc/x86_64-w64-mingw32/4.8/include/stdarg.h \
+ /usr/share/mingw-w64/include/stdarg.h \
+ /usr/share/mingw-w64/include/_mingw_stdarg.h \
+ /usr/include/c++/4.8/iterator /usr/include/c++/4.8/ostream \
+ /usr/include/c++/4.8/ios /usr/include/c++/4.8/bits/ios_base.h \
+ /usr/include/c++/4.8/bits/locale_classes.h \
+ /usr/include/c++/4.8/bits/locale_classes.tcc \
+ /usr/include/c++/4.8/streambuf /usr/include/c++/4.8/bits/streambuf.tcc \
+ /usr/include/c++/4.8/bits/basic_ios.h \
+ /usr/include/c++/4.8/bits/locale_facets.h /usr/include/c++/4.8/cwctype \
+ /usr/share/mingw-w64/include/wctype.h \
+ /usr/include/c++/4.8/x86_64-w64-mingw32/bits/ctype_base.h \
+ /usr/include/c++/4.8/bits/streambuf_iterator.h \
+ /usr/include/c++/4.8/x86_64-w64-mingw32/bits/ctype_inline.h \
+ /usr/include/c++/4.8/bits/locale_facets.tcc \
+ /usr/include/c++/4.8/bits/basic_ios.tcc \
+ /usr/include/c++/4.8/bits/ostream.tcc /usr/include/c++/4.8/istream \
+ /usr/include/c++/4.8/bits/istream.tcc \
+ /usr/include/c++/4.8/bits/stream_iterator.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qhashfunctions.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h \
+ /usr/include/c++/4.8/list /usr/include/c++/4.8/bits/stl_list.h \
+ /usr/include/c++/4.8/bits/list.tcc \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h \
+ /usr/include/c++/4.8/map /usr/include/c++/4.8/bits/stl_tree.h \
+ /usr/include/c++/4.8/bits/stl_map.h \
+ /usr/include/c++/4.8/bits/stl_multimap.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qmargins.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qpaintdevice.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qrect.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qsize.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qpoint.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qpalette.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qcolor.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qrgb.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qrgba64.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qbrush.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qvector.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qmatrix.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qpolygon.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qregion.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatastream.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qiodevice.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qline.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qtransform.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qpainterpath.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qimage.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qpixelformat.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qpixmap.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer_impl.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qfont.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qfontmetrics.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qfontinfo.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qsizepolicy.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qcursor.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qkeysequence.h \
+ qt/forms/ui_addressbookpage.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QVariant \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qvariant.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qmap.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QAction \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qaction.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qvariant.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qicon.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qactiongroup.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qaction.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QApplication \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qapplication.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreapplication.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreevent.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qeventloop.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qguiapplication.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qinputmethod.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qlocale.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QButtonGroup \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qbuttongroup.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QHBoxLayout \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qboxlayout.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qlayout.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qlayoutitem.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qboxlayout.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qgridlayout.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QHeaderView \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qheaderview.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qabstractitemview.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qabstractscrollarea.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qframe.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qabstractitemmodel.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qitemselectionmodel.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qset.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qabstractitemdelegate.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qstyleoption.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qabstractspinbox.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qvalidator.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qregularexpression.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qslider.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qabstractslider.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qstyle.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qtabbar.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qtabwidget.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qrubberband.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QLabel \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qlabel.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QPushButton \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qpushbutton.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qabstractbutton.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QSpacerItem \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qlayoutitem.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QTableView \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qtableview.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QVBoxLayout \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QWidget \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qwidget.h \
+ qt/addresstablemodel.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QAbstractTableModel \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qabstractitemmodel.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QStringList \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h \
+ qt/bitcoingui.h amount.h serialize.h \
+ /usr/share/mingw-w64/include/assert.h /usr/include/c++/4.8/set \
+ /usr/include/c++/4.8/bits/stl_set.h \
+ /usr/include/c++/4.8/bits/stl_multiset.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QLabel \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QMainWindow \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qmainwindow.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QMap \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qmap.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QMenu \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qmenu.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QPoint \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qpoint.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QPushButton \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QSystemTrayIcon \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qsystemtrayicon.h \
+ qt/csvmodelwriter.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QList \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QObject \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h \
+ qt/editaddressdialog.h qt/guiutil.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QEvent \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreevent.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QHeaderView \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QMessageBox \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qmessagebox.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qdialog.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QProgressBar \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qprogressbar.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QString \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QTableView \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QTableWidget \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qtablewidget.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qtableview.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/filesystem.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/filesystem/config.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/user.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/select_compiler_config.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/compiler/gcc.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/select_stdlib_config.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/stdlib/libstdcpp3.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/select_platform_config.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/platform/win32.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/suffix.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/system/api_config.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/detail/workaround.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/auto_link.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/filesystem/path.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/filesystem/path_traits.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/utility/enable_if.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/core/enable_if.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_array.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/config.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/bool_trait_def.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/template_arity_spec.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/int.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/int_fwd.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/adl_barrier.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/adl.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/msvc.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/intel.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/gcc.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/workaround.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/nttp_decl.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/nttp.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/integral_wrapper.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/integral_c_tag.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/static_constant.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/static_cast.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/cat.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/config/config.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/template_arity_fwd.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessor/params.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/preprocessor.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/comma_if.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/punctuation/comma_if.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/control/if.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/control/iif.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/logical/bool.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/facilities/empty.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/punctuation/comma.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/repeat.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/repetition/repeat.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/debug/error.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/detail/auto_rec.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/tuple/eat.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/inc.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/arithmetic/inc.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/lambda.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/ttp.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/ctps.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/overload_resolution.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/integral_constant.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/bool.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/bool_fwd.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/integral_c.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/integral_c_fwd.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/lambda_support.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/bool_trait_undef.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/decay.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_function.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_reference.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_lvalue_reference.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_rvalue_reference.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/ice.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/yes_no_type.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/ice_or.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/ice_and.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/ice_not.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/ice_eq.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/false_result.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/is_function_ptr_helper.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/remove_bounds.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/type_trait_def.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/type_trait_undef.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/add_pointer.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/remove_reference.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/eval_if.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/if.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/value_wknd.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/integral.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/eti.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/na_spec.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/lambda_fwd.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/void_fwd.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/na.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/na_fwd.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/lambda_arity_param.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/arity.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/dtp.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessor/enum.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessor/def_params_tail.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/limits/arity.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/logical/and.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/logical/bitand.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/identity.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/facilities/identity.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/empty.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/arithmetic/add.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/arithmetic/dec.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/control/while.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/list/fold_left.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/list/detail/fold_left.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/control/expr_iif.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/list/adt.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/detail/is_binary.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/detail/check.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/logical/compl.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/list/fold_right.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/list/detail/fold_right.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/list/reverse.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/control/detail/while.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/tuple/elem.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/facilities/expand.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/facilities/overload.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/variadic/size.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/tuple/rem.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/tuple/detail/is_single_return.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/variadic/elem.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/arithmetic/sub.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/identity.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/system/error_code.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/system/config.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/platform.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/platform/mingw.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/version_number.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/make.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/detail/test.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/detail/platform_detected.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/platform/windows_desktop.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/windows.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/detail/os_detected.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/platform/windows_store.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/platform/windows_phone.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/platform/windows_runtime.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/cstdint.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/assert.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/noncopyable.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/core/noncopyable.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/cerrno.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/abi_prefix.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/abi_suffix.hpp \
+ /usr/include/c++/4.8/locale \
+ /usr/include/c++/4.8/bits/locale_facets_nonio.h \
+ /usr/include/c++/4.8/ctime /usr/share/mingw-w64/include/time.h \
+ /usr/share/mingw-w64/include/_timeval.h \
+ /usr/share/mingw-w64/include/sec_api/time_s.h \
+ /usr/share/mingw-w64/include/pthread_time.h \
+ /usr/include/c++/4.8/x86_64-w64-mingw32/bits/time_members.h \
+ /usr/include/c++/4.8/x86_64-w64-mingw32/bits/messages_members.h \
+ /usr/include/c++/4.8/bits/codecvt.h \
+ /usr/include/c++/4.8/bits/locale_facets_nonio.tcc \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/system/system_error.hpp \
+ /usr/include/c++/4.8/cassert \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/iterator/iterator_facade.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/iterator.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/iterator/interoperable.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/or.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/use_preprocessed.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/nested_type_wknd.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/include_preprocessed.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/compiler.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/stringize.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/or.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_convertible.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/intrinsics.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_same.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_volatile.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/cv_traits_impl.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_arithmetic.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_integral.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_float.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_void.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_abstract.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/add_lvalue_reference.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/add_reference.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/add_rvalue_reference.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/utility/declval.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/iterator/detail/config_def.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/iterator/detail/config_undef.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/iterator/iterator_traits.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/detail/iterator.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/iterator/iterator_categories.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/placeholders.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/arg.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/arg_fwd.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/na_assert.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/assert.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/not.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/yes_no.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/arrays.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/gpu.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/pp_counter.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/arity_spec.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/arg_typedef.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/arg.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/placeholders.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/static_assert.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/iterator/detail/facade_iterator_category.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/and.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/and.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_const.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/detail/indirect_traits.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_pointer.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_member_pointer.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_member_function_pointer.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/remove_cv.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_class.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/remove_pointer.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/iterator/detail/enable_if.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/utility/addressof.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/core/addressof.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/add_const.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/remove_const.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_pod.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_scalar.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_enum.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/always.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessor/default_params.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/apply.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/apply_fwd.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/apply_fwd.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/apply_wrap.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/has_apply.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/has_xxx.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/type_wrapper.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/has_xxx.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/msvc_typename.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/array/elem.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/array/data.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/array/size.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/repetition/enum_params.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/repetition/enum_trailing_params.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/has_apply.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/msvc_never_true.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/apply_wrap.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/lambda.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/bind.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/bind_fwd.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/bind.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/bind_fwd.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/next.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/next_prior.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/common_name_wknd.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/protect.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/bind.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/full_lambda.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/quote.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/void.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/has_type.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/bcc.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/quote.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/template_arity.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/apply.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/shared_ptr.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/shared_ptr.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/no_tr1/memory.hpp \
+ /usr/include/c++/4.8/memory \
+ /usr/include/c++/4.8/bits/stl_raw_storage_iter.h \
+ /usr/include/c++/4.8/ext/concurrence.h \
+ /usr/include/c++/4.8/bits/unique_ptr.h \
+ /usr/include/c++/4.8/bits/shared_ptr.h \
+ /usr/include/c++/4.8/bits/shared_ptr_base.h \
+ /usr/include/c++/4.8/backward/auto_ptr.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/checked_delete.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/core/checked_delete.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/throw_exception.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/exception/exception.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/current_function.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/shared_count.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/bad_weak_ptr.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/sp_counted_base.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/sp_has_sync.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/detail/sp_typeinfo.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/core/typeinfo.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/core/demangle.hpp \
+ /usr/include/c++/4.8/cxxabi.h \
+ /usr/include/c++/4.8/x86_64-w64-mingw32/bits/cxxabi_tweaks.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/sp_counted_impl.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/sp_convertible.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/sp_nullptr_t.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/spinlock_pool.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/spinlock.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/spinlock_sync.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/yield_k.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/language.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/language/stdc.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/language/stdcpp.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/language/objc.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/alpha.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/arm.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/blackfin.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/convex.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/ia64.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/m68k.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/mips.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/parisc.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/ppc.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/pyramid.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/rs6k.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/sparc.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/superh.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/sys370.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/sys390.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/x86.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/x86/32.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/x86/64.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/z.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/borland.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/clang.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/comeau.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/compaq.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/diab.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/digitalmars.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/dignus.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/edg.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/ekopath.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/gcc_xml.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/gcc.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/detail/comp_detected.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/greenhills.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/hp_acc.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/iar.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/ibm.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/intel.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/kai.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/llvm.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/metaware.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/metrowerks.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/microtec.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/mpw.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/palm.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/pgi.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/sgi_mipspro.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/sunpro.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/tendra.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/visualc.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/watcom.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/c.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/c/_prefix.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/detail/_cassert.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/c/gnu.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/c/uc.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/c/vms.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/c/zos.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/_prefix.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/detail/_exception.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/cxx.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/dinkumware.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/libcomo.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/modena.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/msl.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/roguewave.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/sgi.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/stdcpp3.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/stlport.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/vacpp.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/aix.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/amigaos.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/android.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/beos.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/bsd.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/macos.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/ios.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/bsd/bsdi.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/bsd/dragonfly.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/bsd/free.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/bsd/open.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/bsd/net.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/cygwin.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/haiku.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/hpux.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/irix.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/linux.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/os400.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/qnxnto.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/solaris.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/unix.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/vms.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/other.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/other/endian.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/version.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/operator_bool.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/io/detail/quoted_manip.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/io/ios_state.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/io_fwd.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/functional/hash_fwd.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/functional/hash/hash_fwd.hpp \
+ /usr/include/c++/4.8/cstring \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/filesystem/operations.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/detail/scoped_enum_emulation.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/core/scoped_enum.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/detail/bitmask.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/range/mutable_iterator.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/range/config.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/range/range_fwd.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/range/detail/extract_optional_type.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/range/detail/msvc_has_iterator_workaround.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/range/const_iterator.hpp \
+ /usr/include/c++/4.8/stack /usr/include/c++/4.8/deque \
+ /usr/include/c++/4.8/bits/stl_deque.h \
+ /usr/include/c++/4.8/bits/deque.tcc \
+ /usr/include/c++/4.8/bits/stl_stack.h /usr/include/c++/4.8/fstream \
+ /usr/include/c++/4.8/x86_64-w64-mingw32/bits/basic_file.h \
+ /usr/include/c++/4.8/x86_64-w64-mingw32/bits/c++io.h \
+ /usr/include/c++/4.8/bits/fstream.tcc \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/filesystem/convenience.hpp \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/QIcon \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qicon.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QSortFilterProxyModel \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qsortfilterproxymodel.h \
+ /home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qabstractproxymodel.h
+
+config/cryptocurrency-config.h:
+
+qt/addressbookpage.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QDialog:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qdialog.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qwidget.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qwindowdefs.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h:
+
+/usr/include/c++/4.8/cstddef:
+
+/usr/include/c++/4.8/x86_64-w64-mingw32/bits/c++config.h:
+
+/usr/include/c++/4.8/x86_64-w64-mingw32/bits/os_defines.h:
+
+/usr/include/c++/4.8/x86_64-w64-mingw32/bits/cpu_defines.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/4.8/include/stddef.h:
+
+/usr/share/mingw-w64/include/stddef.h:
+
+/usr/share/mingw-w64/include/crtdefs.h:
+
+/usr/share/mingw-w64/include/_mingw.h:
+
+/usr/share/mingw-w64/include/_mingw_mac.h:
+
+/usr/share/mingw-w64/include/_mingw_secapi.h:
+
+/usr/share/mingw-w64/include/vadefs.h:
+
+/usr/share/mingw-w64/include/sdks/_mingw_directx.h:
+
+/usr/share/mingw-w64/include/sdks/_mingw_ddk.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h:
+
+/usr/include/c++/4.8/utility:
+
+/usr/include/c++/4.8/bits/stl_relops.h:
+
+/usr/include/c++/4.8/bits/stl_pair.h:
+
+/usr/include/c++/4.8/bits/move.h:
+
+/usr/include/c++/4.8/bits/concept_check.h:
+
+/usr/include/c++/4.8/type_traits:
+
+/usr/include/c++/4.8/initializer_list:
+
+/usr/include/c++/4.8/algorithm:
+
+/usr/include/c++/4.8/bits/stl_algobase.h:
+
+/usr/include/c++/4.8/bits/functexcept.h:
+
+/usr/include/c++/4.8/bits/exception_defines.h:
+
+/usr/include/c++/4.8/bits/cpp_type_traits.h:
+
+/usr/include/c++/4.8/ext/type_traits.h:
+
+/usr/include/c++/4.8/ext/numeric_traits.h:
+
+/usr/include/c++/4.8/bits/stl_iterator_base_types.h:
+
+/usr/include/c++/4.8/bits/stl_iterator_base_funcs.h:
+
+/usr/include/c++/4.8/debug/debug.h:
+
+/usr/include/c++/4.8/bits/stl_iterator.h:
+
+/usr/include/c++/4.8/bits/stl_algo.h:
+
+/usr/include/c++/4.8/cstdlib:
+
+/usr/share/mingw-w64/include/stdlib.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/4.8/include-fixed/limits.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/4.8/include-fixed/syslimits.h:
+
+/usr/share/mingw-w64/include/limits.h:
+
+/usr/share/mingw-w64/include/sec_api/stdlib_s.h:
+
+/usr/share/mingw-w64/include/malloc.h:
+
+/usr/include/c++/4.8/bits/algorithmfwd.h:
+
+/usr/include/c++/4.8/bits/stl_heap.h:
+
+/usr/include/c++/4.8/bits/stl_tempbuf.h:
+
+/usr/include/c++/4.8/bits/stl_construct.h:
+
+/usr/include/c++/4.8/new:
+
+/usr/include/c++/4.8/exception:
+
+/usr/include/c++/4.8/bits/atomic_lockfree_defines.h:
+
+/usr/include/c++/4.8/bits/exception_ptr.h:
+
+/usr/include/c++/4.8/bits/nested_exception.h:
+
+/usr/include/c++/4.8/ext/alloc_traits.h:
+
+/usr/include/c++/4.8/bits/alloc_traits.h:
+
+/usr/include/c++/4.8/bits/memoryfwd.h:
+
+/usr/include/c++/4.8/bits/ptr_traits.h:
+
+/usr/include/c++/4.8/random:
+
+/usr/include/c++/4.8/cmath:
+
+/usr/share/mingw-w64/include/math.h:
+
+/usr/include/c++/4.8/cstdio:
+
+/usr/share/mingw-w64/include/stdio.h:
+
+/usr/share/mingw-w64/include/_mingw_print_push.h:
+
+/usr/share/mingw-w64/include/_mingw_off_t.h:
+
+/usr/x86_64-w64-mingw32/include/swprintf.inl:
+
+/usr/share/mingw-w64/include/sec_api/stdio_s.h:
+
+/usr/share/mingw-w64/include/_mingw_print_pop.h:
+
+/usr/include/c++/4.8/string:
+
+/usr/include/c++/4.8/bits/stringfwd.h:
+
+/usr/include/c++/4.8/bits/char_traits.h:
+
+/usr/include/c++/4.8/bits/postypes.h:
+
+/usr/include/c++/4.8/cwchar:
+
+/usr/share/mingw-w64/include/wchar.h:
+
+/usr/share/mingw-w64/include/_mingw_stat64.h:
+
+/usr/share/mingw-w64/include/sec_api/wchar_s.h:
+
+/usr/include/c++/4.8/cstdint:
+
+/usr/lib/gcc/x86_64-w64-mingw32/4.8/include/stdint.h:
+
+/usr/share/mingw-w64/include/stdint.h:
+
+/usr/include/c++/4.8/bits/allocator.h:
+
+/usr/include/c++/4.8/x86_64-w64-mingw32/bits/c++allocator.h:
+
+/usr/include/c++/4.8/ext/new_allocator.h:
+
+/usr/include/c++/4.8/bits/localefwd.h:
+
+/usr/include/c++/4.8/x86_64-w64-mingw32/bits/c++locale.h:
+
+/usr/include/c++/4.8/clocale:
+
+/usr/share/mingw-w64/include/locale.h:
+
+/usr/include/c++/4.8/iosfwd:
+
+/usr/include/c++/4.8/cctype:
+
+/usr/share/mingw-w64/include/ctype.h:
+
+/usr/include/c++/4.8/bits/ostream_insert.h:
+
+/usr/include/c++/4.8/bits/cxxabi_forced.h:
+
+/usr/include/c++/4.8/bits/stl_function.h:
+
+/usr/include/c++/4.8/backward/binders.h:
+
+/usr/include/c++/4.8/bits/range_access.h:
+
+/usr/include/c++/4.8/bits/basic_string.h:
+
+/usr/include/c++/4.8/ext/atomicity.h:
+
+/usr/include/c++/4.8/x86_64-w64-mingw32/bits/gthr.h:
+
+/usr/include/c++/4.8/x86_64-w64-mingw32/bits/gthr-default.h:
+
+/usr/share/mingw-w64/include/pthread.h:
+
+/usr/share/mingw-w64/include/errno.h:
+
+/usr/share/mingw-w64/include/sys/types.h:
+
+/usr/share/mingw-w64/include/process.h:
+
+/usr/share/mingw-w64/include/signal.h:
+
+/usr/share/mingw-w64/include/pthread_signal.h:
+
+/usr/share/mingw-w64/include/sys/timeb.h:
+
+/usr/share/mingw-w64/include/sec_api/sys/timeb_s.h:
+
+/usr/share/mingw-w64/include/pthread_compat.h:
+
+/usr/share/mingw-w64/include/pthread_unistd.h:
+
+/usr/include/c++/4.8/x86_64-w64-mingw32/bits/atomic_word.h:
+
+/usr/include/c++/4.8/ext/string_conversions.h:
+
+/usr/include/c++/4.8/cerrno:
+
+/usr/include/c++/4.8/bits/functional_hash.h:
+
+/usr/include/c++/4.8/bits/hash_bytes.h:
+
+/usr/include/c++/4.8/bits/basic_string.tcc:
+
+/usr/include/c++/4.8/limits:
+
+/usr/include/c++/4.8/bits/random.h:
+
+/usr/include/c++/4.8/vector:
+
+/usr/include/c++/4.8/bits/stl_uninitialized.h:
+
+/usr/include/c++/4.8/bits/stl_vector.h:
+
+/usr/include/c++/4.8/bits/stl_bvector.h:
+
+/usr/include/c++/4.8/bits/vector.tcc:
+
+/usr/include/c++/4.8/x86_64-w64-mingw32/bits/opt_random.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/4.8/include/x86intrin.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/4.8/include/ia32intrin.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/4.8/include/mmintrin.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/4.8/include/xmmintrin.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/4.8/include/mm_malloc.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/4.8/include/emmintrin.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/4.8/include/immintrin.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/4.8/include/fxsrintrin.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/4.8/include/adxintrin.h:
+
+/usr/include/c++/4.8/bits/random.tcc:
+
+/usr/include/c++/4.8/numeric:
+
+/usr/include/c++/4.8/bits/stl_numeric.h:
+
+/usr/include/c++/4.8/functional:
+
+/usr/include/c++/4.8/typeinfo:
+
+/usr/include/c++/4.8/tuple:
+
+/usr/include/c++/4.8/array:
+
+/usr/include/c++/4.8/stdexcept:
+
+/usr/include/c++/4.8/bits/uses_allocator.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_cxx11.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h:
+
+/usr/include/c++/4.8/atomic:
+
+/usr/include/c++/4.8/bits/atomic_base.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/4.8/include/stdbool.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qversiontagging.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qwindowdefs_win.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h:
+
+/usr/share/mingw-w64/include/string.h:
+
+/usr/share/mingw-w64/include/sec_api/string_s.h:
+
+/usr/lib/gcc/x86_64-w64-mingw32/4.8/include/stdarg.h:
+
+/usr/share/mingw-w64/include/stdarg.h:
+
+/usr/share/mingw-w64/include/_mingw_stdarg.h:
+
+/usr/include/c++/4.8/iterator:
+
+/usr/include/c++/4.8/ostream:
+
+/usr/include/c++/4.8/ios:
+
+/usr/include/c++/4.8/bits/ios_base.h:
+
+/usr/include/c++/4.8/bits/locale_classes.h:
+
+/usr/include/c++/4.8/bits/locale_classes.tcc:
+
+/usr/include/c++/4.8/streambuf:
+
+/usr/include/c++/4.8/bits/streambuf.tcc:
+
+/usr/include/c++/4.8/bits/basic_ios.h:
+
+/usr/include/c++/4.8/bits/locale_facets.h:
+
+/usr/include/c++/4.8/cwctype:
+
+/usr/share/mingw-w64/include/wctype.h:
+
+/usr/include/c++/4.8/x86_64-w64-mingw32/bits/ctype_base.h:
+
+/usr/include/c++/4.8/bits/streambuf_iterator.h:
+
+/usr/include/c++/4.8/x86_64-w64-mingw32/bits/ctype_inline.h:
+
+/usr/include/c++/4.8/bits/locale_facets.tcc:
+
+/usr/include/c++/4.8/bits/basic_ios.tcc:
+
+/usr/include/c++/4.8/bits/ostream.tcc:
+
+/usr/include/c++/4.8/istream:
+
+/usr/include/c++/4.8/bits/istream.tcc:
+
+/usr/include/c++/4.8/bits/stream_iterator.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qhashfunctions.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h:
+
+/usr/include/c++/4.8/list:
+
+/usr/include/c++/4.8/bits/stl_list.h:
+
+/usr/include/c++/4.8/bits/list.tcc:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h:
+
+/usr/include/c++/4.8/map:
+
+/usr/include/c++/4.8/bits/stl_tree.h:
+
+/usr/include/c++/4.8/bits/stl_map.h:
+
+/usr/include/c++/4.8/bits/stl_multimap.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qmargins.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qpaintdevice.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qrect.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qsize.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qpoint.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qpalette.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qcolor.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qrgb.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qrgba64.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qbrush.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qvector.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qmatrix.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qpolygon.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qregion.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatastream.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qiodevice.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qline.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qtransform.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qpainterpath.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qimage.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qpixelformat.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qpixmap.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer_impl.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qfont.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qfontmetrics.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qfontinfo.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qsizepolicy.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qcursor.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qkeysequence.h:
+
+qt/forms/ui_addressbookpage.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QVariant:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qvariant.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qmap.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QAction:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qaction.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qvariant.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qicon.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qactiongroup.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qaction.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QApplication:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qapplication.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreapplication.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreevent.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qeventloop.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qguiapplication.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qinputmethod.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qlocale.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QButtonGroup:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qbuttongroup.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QHBoxLayout:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qboxlayout.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qlayout.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qlayoutitem.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qboxlayout.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qgridlayout.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QHeaderView:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qheaderview.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qabstractitemview.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qabstractscrollarea.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qframe.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qabstractitemmodel.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qitemselectionmodel.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qset.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qabstractitemdelegate.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qstyleoption.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qabstractspinbox.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qvalidator.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qregularexpression.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qslider.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qabstractslider.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qstyle.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qtabbar.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qtabwidget.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qrubberband.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QLabel:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qlabel.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QPushButton:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qpushbutton.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qabstractbutton.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QSpacerItem:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qlayoutitem.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QTableView:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qtableview.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QVBoxLayout:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QWidget:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qwidget.h:
+
+qt/addresstablemodel.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QAbstractTableModel:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qabstractitemmodel.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QStringList:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h:
+
+qt/bitcoingui.h:
+
+amount.h:
+
+serialize.h:
+
+/usr/share/mingw-w64/include/assert.h:
+
+/usr/include/c++/4.8/set:
+
+/usr/include/c++/4.8/bits/stl_set.h:
+
+/usr/include/c++/4.8/bits/stl_multiset.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QLabel:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QMainWindow:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qmainwindow.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QMap:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qmap.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QMenu:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qmenu.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QPoint:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qpoint.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QPushButton:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QSystemTrayIcon:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qsystemtrayicon.h:
+
+qt/csvmodelwriter.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QList:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QObject:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h:
+
+qt/editaddressdialog.h:
+
+qt/guiutil.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QEvent:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreevent.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QHeaderView:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QMessageBox:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qmessagebox.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qdialog.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QProgressBar:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qprogressbar.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QString:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QTableView:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/QTableWidget:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qtablewidget.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtWidgets/qtableview.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/filesystem.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/filesystem/config.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/user.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/select_compiler_config.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/compiler/gcc.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/select_stdlib_config.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/stdlib/libstdcpp3.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/select_platform_config.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/platform/win32.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/suffix.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/system/api_config.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/detail/workaround.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/auto_link.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/filesystem/path.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/filesystem/path_traits.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/utility/enable_if.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/core/enable_if.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_array.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/config.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/bool_trait_def.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/template_arity_spec.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/int.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/int_fwd.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/adl_barrier.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/adl.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/msvc.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/intel.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/gcc.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/workaround.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/nttp_decl.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/nttp.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/integral_wrapper.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/integral_c_tag.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/static_constant.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/static_cast.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/cat.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/config/config.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/template_arity_fwd.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessor/params.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/preprocessor.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/comma_if.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/punctuation/comma_if.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/control/if.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/control/iif.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/logical/bool.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/facilities/empty.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/punctuation/comma.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/repeat.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/repetition/repeat.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/debug/error.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/detail/auto_rec.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/tuple/eat.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/inc.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/arithmetic/inc.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/lambda.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/ttp.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/ctps.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/overload_resolution.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/integral_constant.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/bool.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/bool_fwd.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/integral_c.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/integral_c_fwd.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/lambda_support.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/bool_trait_undef.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/decay.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_function.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_reference.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_lvalue_reference.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_rvalue_reference.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/ice.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/yes_no_type.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/ice_or.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/ice_and.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/ice_not.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/ice_eq.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/false_result.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/is_function_ptr_helper.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/remove_bounds.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/type_trait_def.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/type_trait_undef.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/add_pointer.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/remove_reference.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/eval_if.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/if.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/value_wknd.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/integral.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/eti.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/na_spec.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/lambda_fwd.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/void_fwd.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/na.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/na_fwd.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/lambda_arity_param.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/arity.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/dtp.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessor/enum.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/limits/arity.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/logical/and.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/logical/bitand.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/identity.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/facilities/identity.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/empty.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/arithmetic/add.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/arithmetic/dec.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/control/while.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/list/fold_left.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/list/detail/fold_left.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/control/expr_iif.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/list/adt.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/detail/is_binary.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/detail/check.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/logical/compl.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/list/fold_right.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/list/detail/fold_right.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/list/reverse.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/control/detail/while.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/tuple/elem.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/facilities/expand.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/facilities/overload.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/variadic/size.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/tuple/rem.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/tuple/detail/is_single_return.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/variadic/elem.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/arithmetic/sub.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/identity.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/system/error_code.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/system/config.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/platform.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/platform/mingw.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/version_number.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/make.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/detail/test.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/detail/platform_detected.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/platform/windows_desktop.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/windows.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/detail/os_detected.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/platform/windows_store.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/platform/windows_phone.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/platform/windows_runtime.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/cstdint.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/assert.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/noncopyable.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/core/noncopyable.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/cerrno.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/abi_prefix.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/abi_suffix.hpp:
+
+/usr/include/c++/4.8/locale:
+
+/usr/include/c++/4.8/bits/locale_facets_nonio.h:
+
+/usr/include/c++/4.8/ctime:
+
+/usr/share/mingw-w64/include/time.h:
+
+/usr/share/mingw-w64/include/_timeval.h:
+
+/usr/share/mingw-w64/include/sec_api/time_s.h:
+
+/usr/share/mingw-w64/include/pthread_time.h:
+
+/usr/include/c++/4.8/x86_64-w64-mingw32/bits/time_members.h:
+
+/usr/include/c++/4.8/x86_64-w64-mingw32/bits/messages_members.h:
+
+/usr/include/c++/4.8/bits/codecvt.h:
+
+/usr/include/c++/4.8/bits/locale_facets_nonio.tcc:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/system/system_error.hpp:
+
+/usr/include/c++/4.8/cassert:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/iterator/iterator_facade.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/iterator.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/iterator/interoperable.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/or.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/use_preprocessed.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/nested_type_wknd.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/include_preprocessed.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/compiler.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/stringize.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/or.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_convertible.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/intrinsics.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_same.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_volatile.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/cv_traits_impl.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_arithmetic.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_integral.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_float.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_void.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_abstract.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/add_lvalue_reference.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/add_reference.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/add_rvalue_reference.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/utility/declval.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/iterator/detail/config_def.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/iterator/detail/config_undef.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/iterator/iterator_traits.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/detail/iterator.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/iterator/iterator_categories.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/placeholders.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/arg.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/arg_fwd.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/na_assert.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/assert.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/not.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/yes_no.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/arrays.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/gpu.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/pp_counter.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/arity_spec.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/arg_typedef.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/arg.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/placeholders.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/static_assert.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/iterator/detail/facade_iterator_category.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/and.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/and.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_const.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/detail/indirect_traits.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_pointer.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_member_pointer.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_member_function_pointer.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/remove_cv.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_class.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/remove_pointer.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/iterator/detail/enable_if.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/utility/addressof.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/core/addressof.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/add_const.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/remove_const.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_pod.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_scalar.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/type_traits/is_enum.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/always.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessor/default_params.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/apply.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/apply_fwd.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/apply_fwd.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/apply_wrap.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/has_apply.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/has_xxx.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/type_wrapper.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/has_xxx.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/msvc_typename.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/array/elem.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/array/data.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/array/size.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/repetition/enum_params.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/repetition/enum_trailing_params.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/has_apply.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/msvc_never_true.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/apply_wrap.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/lambda.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/bind.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/bind_fwd.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/bind.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/bind_fwd.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/next.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/next_prior.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/common_name_wknd.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/protect.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/bind.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/full_lambda.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/quote.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/void.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/has_type.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/config/bcc.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/quote.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/template_arity.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/mpl/aux_/preprocessed/gcc/apply.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/shared_ptr.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/shared_ptr.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/config/no_tr1/memory.hpp:
+
+/usr/include/c++/4.8/memory:
+
+/usr/include/c++/4.8/bits/stl_raw_storage_iter.h:
+
+/usr/include/c++/4.8/ext/concurrence.h:
+
+/usr/include/c++/4.8/bits/unique_ptr.h:
+
+/usr/include/c++/4.8/bits/shared_ptr.h:
+
+/usr/include/c++/4.8/bits/shared_ptr_base.h:
+
+/usr/include/c++/4.8/backward/auto_ptr.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/checked_delete.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/core/checked_delete.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/throw_exception.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/exception/exception.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/current_function.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/shared_count.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/bad_weak_ptr.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/sp_counted_base.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/sp_has_sync.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/detail/sp_typeinfo.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/core/typeinfo.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/core/demangle.hpp:
+
+/usr/include/c++/4.8/cxxabi.h:
+
+/usr/include/c++/4.8/x86_64-w64-mingw32/bits/cxxabi_tweaks.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/sp_counted_impl.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/sp_convertible.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/sp_nullptr_t.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/spinlock_pool.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/spinlock.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/spinlock_sync.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/yield_k.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/language.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/language/stdc.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/language/stdcpp.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/language/objc.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/alpha.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/arm.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/blackfin.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/convex.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/ia64.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/m68k.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/mips.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/parisc.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/ppc.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/pyramid.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/rs6k.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/sparc.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/superh.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/sys370.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/sys390.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/x86.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/x86/32.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/x86/64.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/architecture/z.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/borland.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/clang.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/comeau.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/compaq.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/diab.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/digitalmars.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/dignus.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/edg.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/ekopath.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/gcc_xml.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/gcc.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/detail/comp_detected.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/greenhills.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/hp_acc.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/iar.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/ibm.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/intel.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/kai.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/llvm.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/metaware.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/metrowerks.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/microtec.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/mpw.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/palm.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/pgi.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/sgi_mipspro.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/sunpro.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/tendra.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/visualc.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/compiler/watcom.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/c.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/c/_prefix.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/detail/_cassert.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/c/gnu.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/c/uc.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/c/vms.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/c/zos.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/_prefix.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/detail/_exception.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/cxx.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/dinkumware.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/libcomo.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/modena.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/msl.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/roguewave.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/sgi.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/stdcpp3.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/stlport.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/library/std/vacpp.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/aix.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/amigaos.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/android.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/beos.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/bsd.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/macos.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/ios.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/bsd/bsdi.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/bsd/dragonfly.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/bsd/free.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/bsd/open.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/bsd/net.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/cygwin.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/haiku.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/hpux.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/irix.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/linux.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/os400.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/qnxnto.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/solaris.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/unix.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/os/vms.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/other.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/other/endian.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/predef/version.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/smart_ptr/detail/operator_bool.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/io/detail/quoted_manip.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/io/ios_state.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/io_fwd.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/functional/hash_fwd.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/functional/hash/hash_fwd.hpp:
+
+/usr/include/c++/4.8/cstring:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/filesystem/operations.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/detail/scoped_enum_emulation.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/core/scoped_enum.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/detail/bitmask.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/range/mutable_iterator.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/range/config.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/range/range_fwd.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/range/detail/extract_optional_type.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/range/detail/msvc_has_iterator_workaround.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/range/const_iterator.hpp:
+
+/usr/include/c++/4.8/stack:
+
+/usr/include/c++/4.8/deque:
+
+/usr/include/c++/4.8/bits/stl_deque.h:
+
+/usr/include/c++/4.8/bits/deque.tcc:
+
+/usr/include/c++/4.8/bits/stl_stack.h:
+
+/usr/include/c++/4.8/fstream:
+
+/usr/include/c++/4.8/x86_64-w64-mingw32/bits/basic_file.h:
+
+/usr/include/c++/4.8/x86_64-w64-mingw32/bits/c++io.h:
+
+/usr/include/c++/4.8/bits/fstream.tcc:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/boost/filesystem/convenience.hpp:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/QIcon:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtGui/qicon.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/QSortFilterProxyModel:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qsortfilterproxymodel.h:
+
+/home/ubuntu/ccy/depends/x86_64-w64-mingw32/share/../include/QtCore/qabstractproxymodel.h:
