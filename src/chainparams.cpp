@@ -60,7 +60,8 @@ static Checkpoints::MapCheckpoints mapCheckpoints =
         (24, uint256("0x00003e7a8f1c366a011ac4bc617dc7c0a53f5775f8892adece76827506a1af89"))
         (26, uint256("0x00002b449c6e1e64c51499b3e6901a6525045a9892ec689744750466866a7bf5"))
 	(30, uint256("0x00001abf15009207f0358c836cd5c32e74f4920a7c7ea26c43fdc7995e4d00ae"))
-	(98, uint256("0x000000929401443203afebe9f15f36e75c11ae9cc89c05db907dc7dbf19e6ab8"));
+	(98, uint256("0x000000929401443203afebe9f15f36e75c11ae9cc89c05db907dc7dbf19e6ab8"))
+	(940, uint256("0xb2f2833f2de8cffeb143ec74d2296de27ccb28d859be28d1a3d74bc4b9e34abe"));
 
 
 
@@ -112,10 +113,10 @@ public:
         nMinerThreads = 0;
         nTargetTimespan = 1 * 120;
         nTargetSpacing = 1 * 120;
-        nLastPOWBlock = 100000;
+        nLastPOWBlock = 5000;
         nMaturity = 6;
         nMasternodeCountDrift = 20;
-        nMasternodeCollateralLimit = 10000;
+        nMasternodeCollateralLimit = 1000;
         nModifierUpdateBlock = 106000;
         nMaxMoneyOut = 21000000 * COIN;
         const char* pszTimestamp = "When the Internet first came, I thought it was just the cryptocurrency of freedom - 2019";
