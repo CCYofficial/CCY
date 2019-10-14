@@ -12,6 +12,11 @@ AC_CONFIG_HEADERS([src/config/cryptocurrency-config.h])
 AC_CONFIG_AUX_DIR([build-aux])
 AC_CONFIG_MACRO_DIR([build-aux/m4])
 
+BITCOIN_DAEMON_NAME=cryptocurrencyd
+BITCOIN_GUI_NAME=cryptocurrency-qt
+BITCOIN_CLI_NAME=cryptocurrency-cli
+BITCOIN_TX_NAME=cryptocurrency-tx
+
 AC_CANONICAL_HOST
 
 AH_TOP([#ifndef CCY_CONFIG_H])
