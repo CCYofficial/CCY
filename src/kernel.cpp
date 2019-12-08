@@ -257,8 +257,7 @@ bool GetKernelStakeModifier(uint256 hashBlockFrom, uint64_t& nStakeModifier, int
     while (nStakeModifierTime < pindexFrom->GetBlockTime() + nStakeModifierSelectionInterval) {
         if (!pindexNext) {
             // Should never happen
-            LogPrintf("We Cant't Stop Here, This is Bat Country! Oh yea at height=%d Null pindexNext.\n", pindexFrom->nHeight);
-            return true;
+            return error("Null pindexNext\n");
         }
 
         pindex = pindexNext;
