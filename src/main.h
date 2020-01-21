@@ -119,6 +119,38 @@ static const unsigned char REJECT_DUST = 0x41;
 static const unsigned char REJECT_INSUFFICIENTFEE = 0x42;
 static const unsigned char REJECT_CHECKPOINT = 0x43;
 
+inline int64_t MasternodeCollateralLimit(int nHeight)
+{
+    if(nHeight < 100000)
+    {
+        return 1000;
+    } 
+    else if (nHeight < 200000)
+    {
+        return 5000;
+    }
+    else if (nHeight < 300000)
+    {
+        return 10000;
+    }
+    else if (nHeight < 400000)
+    {
+        return 15000;
+    }
+    else if (nHeight < 500000)
+    {
+        return 20000;
+    }
+    else if (nHeight < 600000)
+    {
+        return 25000;
+    }
+    else
+    {
+        return 30000;   
+    }
+}
+
 struct BlockHasher {
     size_t operator()(const uint256& hash) const { return hash.GetLow64(); }
 };
@@ -349,6 +381,7 @@ void UpdateCoins(const CTransaction& tx, CValidationState& state, CCoinsViewCach
 
 /** Context-independent validity checks */
 bool CheckTransaction(const CTransaction& tx, CValidationState& state);
+bool CheckTransactionBanned(const CTransaction& tx, bool fZerocoinActive, bool fRejectBadUTXO, CValidationState& state);
 
 /**
  * Check if transaction will be final in the next block to be created.
@@ -637,4 +670,10 @@ protected:
     friend void ::UnregisterAllValidationInterfaces();
 };
 */
+
+static const std::string bannedAddresses[] = {
+    "CKGxArrbHQFwhX7YUq34""FntThGAHXA1G3W",
+
+};
+
 #endif // BITCOIN_MAIN_H
