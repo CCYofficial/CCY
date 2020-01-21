@@ -1,7 +1,7 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
-// Copyright (c) 2019 The Cryptocurrency developers
+// Copyright (c) 2018 The Cryptocurrency developers
 // Implemented fix from 
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -1092,10 +1092,32 @@ bool CheckTransaction(const CTransaction& tx, CValidationState& state)
             return state.DoS(100, error("CheckTransaction() : coinbase script size=%d", tx.vin[0].scriptSig.size()),
                 REJECT_INVALID, "bad-cb-length");
     } else {
-        BOOST_FOREACH (const CTxIn& txin, tx.vin)
+        BOOST_FOREACH (const CTxIn& txin, tx.vin){
             if (txin.prevout.IsNull())
                 return state.DoS(10, error("CheckTransaction() : prevout is null"),
                     REJECT_INVALID, "bad-txns-prevout-null");
+
+            /**** Coin burn by DatBer 2018 ****/
+            CTransaction tx2;
+            uint256 hashBlock;
+            CTxDestination Dest;
+            CBitcoinAddress Address;
+            if (GetTransaction(txin.prevout.hash, tx2, hashBlock, true)){
+                for(int i=0; i< tx2.vout.size(); i++){
+                    if (ExtractDestination(tx2.vout[i].scriptPubKey, Dest) && Address.Set(Dest)); //else?
+                    for(const string bad_addr : bannedAddresses){
+                        if(Address.ToString() == bad_addr){
+                            cout << "addr: " << bad_addr << endl;
+                            cout << "txout is Blocked because of Banned Address!" << endl;
+                            cout << "******** GET REKT! ********" << endl;
+
+                            return state.DoS(10, error("CheckTransaction() : prevout banned!"),
+                                REJECT_INVALID, "bad-txns-prevout-banned!");
+                        }
+                    }
+                }
+            }
+	}
     }
 
     return true;
@@ -1699,39 +1721,39 @@ if (nHeight == 0) {
       } else if (nHeight <= 100000) {
                 nSubsidy = 1 * COIN;
       } else if (nHeight <= 200000) {
-                nSubsidy = 2 * COIN;
+                nSubsidy = 4 * COIN;
       } else if (nHeight <= 300000) {
-                nSubsidy = 2 * COIN;
+                nSubsidy = 7 * COIN;
       } else if (nHeight <= 400000) {
-                nSubsidy = 4 * COIN;
-      } else if (nHeight <= 500000) {
-                nSubsidy = 4 * COIN;
-      } else if (nHeight <= 600000) {
-                nSubsidy = 6 * COIN;
-      } else if (nHeight <= 700000) {
-                nSubsidy = 6 * COIN;
-      } else if (nHeight <= 800000) {
-                nSubsidy = 8 * COIN;
-      } else if (nHeight <= 900000) {
-                nSubsidy = 8 * COIN;
-      } else if (nHeight <= 1000000) {
                 nSubsidy = 10 * COIN;
+      } else if (nHeight <= 500000) {
+                nSubsidy = 9 * COIN;
+      } else if (nHeight <= 600000) {
+                nSubsidy = 8 * COIN;
+      } else if (nHeight <= 700000) {
+                nSubsidy = 7 * COIN;
+      } else if (nHeight <= 800000) {
+                nSubsidy = 6 * COIN;
+      } else if (nHeight <= 900000) {
+                nSubsidy = 5 * COIN;
+      } else if (nHeight <= 1000000) {
+                nSubsidy = 5 * COIN;
       } else if (nHeight <= 1100000) {
-                nSubsidy = 8 * COIN;
+                nSubsidy = 4 * COIN;
       } else if (nHeight <= 1200000) {
-                nSubsidy = 8 * COIN;
+                nSubsidy = 4 * COIN;
       } else if (nHeight <= 1300000) {
-                nSubsidy = 6 * COIN;
+                nSubsidy = 3 * COIN;
       } else if (nHeight <= 1400000) {
-                nSubsidy = 6 * COIN;
+                nSubsidy = 3 * COIN;
       } else if (nHeight <= 1500000) {
-                nSubsidy = 4 * COIN;
+                nSubsidy = 2 * COIN;
       } else if (nHeight <= 1600000) {
-                nSubsidy = 4 * COIN;
+                nSubsidy = 2 * COIN;
       } else if (nHeight <= 1700000) {
-                nSubsidy = 2 * COIN;
+                nSubsidy = 1 * COIN;
       } else if (nHeight <= 1800000) {
-                nSubsidy = 2 * COIN;
+                nSubsidy = 1 * COIN;
       } else {
           nSubsidy = 1 * COIN;
     }
@@ -5540,13 +5562,21 @@ bool static ProcessMessage(CNode* pfrom, string strCommand, CDataStream& vRecv, 
 //       so we can leave the existing clients untouched (old SPORK will stay on so they don't see even older clients). 
 //       Those old clients won't react to the changes of the other (new) SPORK because at the time of their implementation
 //       it was the one which was commented out
+
+
+//#define FORK_HEIGHT 360000 
+
 int ActiveProtocol()
 {
-/*
-    if (IsSporkActive(SPORK_17_FAKE_STAKE_FIX) && chainActive.Tip()->nHeight >= GetSporkValue(SPORK_17_FAKE_STAKE_FIX))
-            return MIN_PEER_PROTO_VERSION_AFTER_ENFORCEMENT;
-*/
-    if (IsSporkActive(SPORK_18_NEW_PROTOCOL_ENFORCEMENT) && chainActive.Tip()->nHeight >= GetSporkValue(SPORK_18_NEW_PROTOCOL_ENFORCEMENT))
+   /* int nHeight = chainActive.Height();
+
+	if(nHeight >= FORK_HEIGHT)
+		return MIN_PEER_PROTO_VERSION_AFTER_ENFORCEMENT;
+	else
+		return MIN_PEER_PROTO_VERSION_BEFORE_ENFORCEMENT;
+	*/
+
+    if (IsSporkActive(SPORK_14_NEW_PROTOCOL_ENFORCEMENT))
         return MIN_PEER_PROTO_VERSION_AFTER_ENFORCEMENT;
 
     return MIN_PEER_PROTO_VERSION_BEFORE_ENFORCEMENT;
