@@ -56,10 +56,6 @@ static Checkpoints::MapCheckpoints mapCheckpoints =
         (0, uint256("0x00007b588772aef59019003155e307ee5ac974fbf285ed7bedb8cd5ea517bd85"))
         (10, uint256("0x00003e1386d0f92caee2a4693c592d9ce389ff1b15781ab8ec020e2c3259d78c"))
         (20, uint256("0x000015fbf543831cd2303616b3c2dc3c8fe94b36d1cc1a7ef261caef7e8163d3"))
-	(22, uint256("0x00000a9dc7cba0815299a0783cb69d31d7a16db3680a9575f4b2382f87981a45"))
-        (24, uint256("0x00003e7a8f1c366a011ac4bc617dc7c0a53f5775f8892adece76827506a1af89"))
-        (26, uint256("0x00002b449c6e1e64c51499b3e6901a6525045a9892ec689744750466866a7bf5"))
-	(30, uint256("0x00001abf15009207f0358c836cd5c32e74f4920a7c7ea26c43fdc7995e4d00ae"))
 	(98, uint256("0x000000929401443203afebe9f15f36e75c11ae9cc89c05db907dc7dbf19e6ab8"))
 	(940, uint256("0xb2f2833f2de8cffeb143ec74d2296de27ccb28d859be28d1a3d74bc4b9e34abe"))
 	(8300, uint256("0xd8ba3e36202132345659211d0c66af72cbb2058833b68c59f576f70a3ce277e6"))
@@ -69,22 +65,7 @@ static Checkpoints::MapCheckpoints mapCheckpoints =
 	(40000, uint256("0x94aabe01f562748abf11e67704fcd88af7478f029d9e2f0dd04f837a7d18215b"))
 	(50000, uint256("0xed4f2f1f1f9839934f413d01e9e074e99c3d39b2fd5905047c72e50fe353d3f7"))
 	(60000, uint256("0xda2189fe536ac55394dbf1f88c934e551437835be864399ad89a67b0e7e0be3d"))
-	(61000, uint256("0xf79d00d9dc2ceee4c1f02b0c956aeedcded0ff3b55b34281bf1dd5ed7bc24974"))
-	(62000, uint256("0x96d85ab8e8b93da535750a4573c23cfefbe8beb02652fc6786ccfa9f744463bd"))
-	(63000, uint256("0x6a652c31517ce4d15c77169ee1e89bf57bf2bd69ba159ff280fc03d660cf2454"))
-	(64000, uint256("0x5e7051488c698f5c328d908de28a932d54fd7e5960f12e746ca86425a25b78d0"))
-	(65000, uint256("0x2cec87266c5aa3508b7f1bafb9655cac5359317f312fbc9c2e74baf6ba5d5861"))
-	(66000, uint256("0xa79241663312990fbf03ac3df5588cf66cc84b754680cf5f306f90c0d10efe04"))
-	(67000, uint256("0xffa662624f16a23fe49001ed1440a3d022d04c2dda9f0131add235099ba15493"))
-	(68000, uint256("0xaa49395e4d9651e4f38ec86d223c9b8efae87b8ba3384623735ff9d66dd955e1"))
-	(69000, uint256("0xf8f7f4b15eb03ac1c91e606d788d43d16c054683d3c27dbd42b6ad47d511307a"))
 	(70000, uint256("0xe308ce9c05d19f5eb702a541a57ea574d96ae11a3bd40a0354b226fdb9596ff1"))
-	(71000, uint256("0x82cba2c6ed491ac818093337b6894fca1f11ce94fbb75e94905e3cee967fd4c7"))
-	(72000, uint256("0x381ed524bbc5aa68537b61567765ad3a37fae1f315d30a40cbb65c29fe2ca702"))
-	(73000, uint256("0x5469f1050214c63c1f695ad251ed0500d9ac5c34ad1f6f7aabebaea59f70a7e6"))
-	(74000, uint256("0xe189e0fc8dbaef95ceb8ab13bfaa4b604bfd23dea44d0a4c5c5b63a27a4d7dcb"))
-	(75000, uint256("0x83ae261e1f6d8b466b90e111f475785c0447b4613df39c4668e9df6ca43b94c1"))
-	(76000, uint256("0x52165460681059f9f06a5f10dbf2e557e052d5be9fe1b7cf84c8a30d1fd4be97"))
 	(77000, uint256("0x5ed464f2fa04f797be4f9580658c2d8ccfab89e4d2be7981838c48a34f129b85"))
 	;
 
@@ -144,8 +125,7 @@ public:
         nLastPOWBlock = 5000;
         nMaturity = 6;
         nMasternodeCountDrift = 20;
-        nMasternodeCollateralLimit = 1000;
-        nModifierUpdateBlock = 106000;
+        nModifierUpdateBlock = 906000;
         nMaxMoneyOut = 21000000 * COIN;
         const char* pszTimestamp = "When the Internet first came, I thought it was just the cryptocurrency of freedom - 2019";
         CMutableTransaction txNew;
@@ -197,7 +177,7 @@ public:
         fHeadersFirstSyncingActive = false;
 
         nPoolMaxTransactions = 3;
-        strSporkKey = "03e3430d87d87a9354a9aefab06234d77b05eadc1b410d369fa2727af847823f77";
+        strSporkKey = "044e3b0f3cf08859910c6d331c8c353f9c37f3f96efe5d9b73e8c7f44525e8d08fe336c42f57023ec4bdc37b52fea88c9a457602a644798aca8b9d4299dee7b558";
         strObfuscationPoolDummyAddress = "CcBbTGDeJQx9Y2G8gJixAQhSb3A5vRAMjH";
         nStartMasternodePayments = 1539514947;
 
@@ -425,3 +405,4 @@ bool SelectParamsFromCommandLine()
     SelectParams(network);
     return true;
 }
+
