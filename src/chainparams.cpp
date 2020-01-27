@@ -68,6 +68,7 @@ static Checkpoints::MapCheckpoints mapCheckpoints =
 	(70000, uint256("0xe308ce9c05d19f5eb702a541a57ea574d96ae11a3bd40a0354b226fdb9596ff1"))
 	(77000, uint256("0x5ed464f2fa04f797be4f9580658c2d8ccfab89e4d2be7981838c48a34f129b85"))
 	(78000, uint256("0x9898f9b7ca2260ec0bae1b59119596ef69756aeb249890a2d9ead77728e0d3d6"))
+	(79000, uint256("0xfa63bebc42ea957bd8b0b5bab8edf7c4cd613327ddf9bb157383919e1ea5b72d"))
 	;
 
 
