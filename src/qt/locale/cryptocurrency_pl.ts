@@ -1374,7 +1374,7 @@ https://www.transifex.com/cryptocurrency-project/cryptocurrency-project-translat
     </message>
     <message>
         <source>0 CCY / 0 Rounds</source>
-        <translation>0 OIVX / 0 Rund</translation>
+        <translation>0 CCY / 0 Rund</translation>
     </message>
     <message>
         <source>Enabled/Disabled</source>
