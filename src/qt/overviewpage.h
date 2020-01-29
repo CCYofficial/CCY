@@ -50,6 +50,7 @@ private:
     ClientModel* clientModel;
     WalletModel* walletModel;
     CAmount currentBalance;
+    CAmount LockedBalance;
     CAmount currentUnconfirmedBalance;
     CAmount currentImmatureBalance;
     CAmount currentAnonymizedBalance;
