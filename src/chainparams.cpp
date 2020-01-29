@@ -160,7 +160,8 @@ public:
         vSeeds.push_back(CDNSSeedData("seed2.ccy.cash", "seed2.ccy.cash"));
         vSeeds.push_back(CDNSSeedData("seed3.ccy.cash", "seed3.ccy.cash"));
         vSeeds.push_back(CDNSSeedData("seed4.ccy.cash", "seed4.ccy.cash"));
-
+        vSeeds.push_back(CDNSSeedData("seed5.ccy.cash", "seed5.ccy.cash"));
+        vSeeds.push_back(CDNSSeedData("seed6.ccy.cash", "seed6.ccy.cash"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 28); 
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 33); 
