@@ -66,6 +66,9 @@
             </item>
             <item>
              <widget class="QLabel" name="labelWalletStatus">
+     <property name="visible">
+      <bool>false</bool>
+     </property>
               <property name="cursor">
                <cursorShape>WhatsThisCursor</cursorShape>
               </property>
@@ -83,19 +86,7 @@
               </property>
              </widget>
             </item>
-            <item>
-             <spacer name="horizontalSpacer_3">
-              <property name="orientation">
-               <enum>Qt::Horizontal</enum>
-              </property>
-              <property name="sizeHint" stdset="0">
-               <size>
-                <width>40</width>
-                <height>20</height>
-               </size>
-              </property>
-             </spacer>
-            </item>
+           
            </layout>
           </item>
           <item>
@@ -390,6 +381,61 @@
               </property>
              </widget>
             </item>
+		<item row="6" column="1">
+              <widget class="QLabel" name="labelLockedBalance">
+               <property name="toolTip">
+                <string>Masternode collaterals</string>
+               </property>
+              <property name="text">
+               <string notr="true">0.000 000 00 BTC</string>
+              </property>
+              <property name="alignment">
+               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+              </property>
+              <property name="textInteractionFlags">
+               <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
+              </property>
+             </widget>
+            </item>
+             <item row="6" column="0">
+              <widget class="QLabel" name="labelLockedBalanceText">
+               <property name="toolTip">
+                <string>Masternode collaterals</string>
+               </property>
+               <property name="text">
+                <string>Masternode:</string>
+               </property>
+              </widget>
+             </item>
+             <item row="7" column="0">
+              <widget class="QLabel" name="labelUnLockedBalanceText">
+     <property name="visible">
+      <bool>false</bool>
+     </property>
+               <property name="toolTip">
+                <string>Unlocked CCY.</string>
+               </property>
+               <property name="text">
+                <string>Unlocked:</string>
+               </property>
+              </widget>
+             </item>
+             <item row="7" column="1">
+              <widget class="QLabel" name="labelUnLockedBalance">
+     <property name="visible">
+      <bool>false</bool>
+     </property>
+               <property name="toolTip">
+                <string>Unlocked CCY.</string>
+               </property>
+               <property name="text">
+                <string>0.000 000 00 CCY</string>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+               </property>
+              </widget>
+             </item>
            </layout>
           </item>
          </layout>
@@ -446,15 +492,15 @@
             </widget>
            </item>
            <item row="1" column="1">
-            <widget class="QProgressBar" name="obfuscationProgress">
+            <widget class="QLabel" name="obfuscationProgress">
              <property name="maximumSize">
               <size>
                <width>154</width>
                <height>16777215</height>
               </size>
              </property>
-             <property name="value">
-              <number>0</number>
+             <property name="text">
+              <string>0%</string>
              </property>
             </widget>
            </item>
@@ -1084,6 +1130,9 @@
            </item>
            <item>
             <widget class="QLabel" name="labelObfuscationSyncStatus">
+     <property name="visible">
+      <bool>false</bool>
+     </property>
              <property name="toolTip">
               <string>The displayed information may be out of date. Your wallet automatically synchronizes with the Cryptocurrency network after a connection is established, but this process has not completed yet.</string>
              </property>
@@ -1098,19 +1147,7 @@
              </property>
             </widget>
            </item>
-           <item>
-            <spacer name="horizontalSpacer_4">
-             <property name="orientation">
-              <enum>Qt::Horizontal</enum>
-             </property>
-             <property name="sizeHint" stdset="0">
-              <size>
-               <width>40</width>
-               <height>20</height>
-              </size>
-             </property>
-            </spacer>
-           </item>
+          
           </layout>
          </widget>
         </widget>
@@ -1159,6 +1196,9 @@
             </item>
             <item>
              <widget class="QLabel" name="labelTransactionsStatus">
+     <property name="visible">
+      <bool>false</bool>
+     </property>
               <property name="cursor">
                <cursorShape>WhatsThisCursor</cursorShape>
               </property>
@@ -1176,19 +1216,7 @@
               </property>
              </widget>
             </item>
-            <item>
-             <spacer name="horizontalSpacer">
-              <property name="orientation">
-               <enum>Qt::Horizontal</enum>
-              </property>
-              <property name="sizeHint" stdset="0">
-               <size>
-                <width>40</width>
-                <height>20</height>
-               </size>
-              </property>
-             </spacer>
-            </item>
+
            </layout>
           </item>
           <item>
