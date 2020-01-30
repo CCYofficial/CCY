@@ -510,6 +510,13 @@ void BitcoinGUI::createToolBars()
     if (walletFrame) {
         QToolBar* toolbar = new QToolBar(tr("Tabs toolbar"));
         toolbar->setToolButtonStyle(Qt::ToolButtonTextBesideIcon);
+
+        QLabel* label = new QLabel();
+        label->setObjectName("logoToolbar");
+        label->setPixmap(QPixmap(":/images/logo_toolbar"));
+        label->setStyleSheet("QLabel { margin: 1 30px 1 30px;}");
+
+
         toolbar->addAction(overviewAction);
         toolbar->addAction(sendCoinsAction);
         toolbar->addAction(receiveCoinsAction);
@@ -518,6 +525,7 @@ void BitcoinGUI::createToolBars()
         if (settings.value("fShowMasternodesTab").toBool()) {
             toolbar->addAction(masternodeAction);
         }
+	toolbar->addWidget(label);
         toolbar->setMovable(false); // remove unused icon in upper left corner
         overviewAction->setChecked(true);
 
