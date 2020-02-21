@@ -1516,6 +1516,11 @@ color:#818181;
 background-color:transparent;
 }
 
+QDialog#CoinControlDialog .QFrame#frame  { 
+min-height:25px;
+min-width:825px;
+}
+
 QDialog#CoinControlDialog QHeaderView::section:first { /* Bug Fix: the number "1" displays in this table for some reason... */
 color:transparent;
 }
