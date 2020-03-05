@@ -1658,6 +1658,10 @@ font-weight:bold;
 font-size:14px;
 }
 
+QWidget#ReceiveCoinsDialog .QFrame#frame  { /* Requested Payments History Table */
+min-width:911px;
+}
+
 /**************************** RECEIVE COINS DIALOG **************************************/
 
 QDialog#ReceiveRequestDialog QTextEdit { /* Contents of Receive Coin Dialog */
