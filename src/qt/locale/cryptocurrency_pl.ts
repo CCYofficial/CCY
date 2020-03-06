@@ -687,15 +687,15 @@ MultiWysyłlka: %1</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Portfel jest 1Zakodowany1 i occyie 2Odblokowany2</translation>
+        <translation>Portfel jest Zakodowany i obecnie Odblokowany</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonimization and staking only</source>
-        <translation>Portfel jest 1Zakodowany1 i occyie 2Odblokowany2 tylko dla anonimizacji i stakingu</translation>
+        <translation>Portfel jest Zakodowany i obecnie Odblokowany tylko dla anonimizacji i stakingu</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Portfel jest 1Zakodowany1 i occyie 2Zablokowany2</translation>
+        <translation>Portfel jest Zakodowany i obecnie Zablokowany</translation>
     </message>
 </context>
 <context>
