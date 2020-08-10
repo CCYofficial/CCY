@@ -1023,7 +1023,7 @@ MultiWysyłlka: %1</translation>
     </message>
     <message>
         <source>Command is not available right now</source>
-        <translation>Komenda nie dostępna w chwili occyej</translation>
+        <translation>Komenda nie dostępna w chwili obecnej</translation>
     </message>
     <message>
         <source>You can't use this command until masternode list is synced</source>
@@ -1358,7 +1358,7 @@ https://www.transifex.com/cryptocurrency-project/cryptocurrency-project-translat
     </message>
     <message>
         <source>Current total balance in watch-only addresses</source>
-        <translation>Occyy całkowity bilans w adresach tylko do obejrzenia</translation>
+        <translation>Obecny całkowity bilans w adresach tylko do obejrzenia</translation>
     </message>
     <message>
         <source>Watch-only:</source>
