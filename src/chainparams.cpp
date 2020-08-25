@@ -108,6 +108,7 @@ static Checkpoints::MapCheckpoints mapCheckpoints =
 	(216400, uint256("0x17b30aa5b220b7eabc54a44f8e60ce63cb0a218f1cd72be54fbc14f0f7104256"))
 	(218300, uint256("0x071a5d3fd81d33663b114dc193f28d7db46559ee5ad438ea20627c061a899190"))
 	(219385, uint256("0x136e4b7a5e0fe0de65e00aa5782cef24c3cefa451e8de4f1446b3dce14b79744"))
+	(230830, uint256("0x04470cdf4c72e3279ef720a6785a82e5c5d8265a951bf253b2a766b39d2d2a2f"))
 ;
 
 
@@ -220,7 +221,7 @@ public:
         fHeadersFirstSyncingActive = false;
 
         nPoolMaxTransactions = 3;
-        strSporkKey = "044e3b0f3cf08859910c6d331c8c353f9c37f3f96efe5d9b73e8c7f44525e8d08fe336c42f57023ec4bdc37b52fea88c9a457602a644798aca8b9d4299dee7b558";
+        strSporkKey = "043e8760d1c9ef3af5a5e49796afe4389a5cb53c6028b54b9af0a152f34762e453615a1aab9260a31045b85f87d4de36bbe6fd04478fcc103fd47c8e1b813c3d3c";
         strObfuscationPoolDummyAddress = "CcBbTGDeJQx9Y2G8gJixAQhSb3A5vRAMjH";
         nStartMasternodePayments = 1539514947;
 
