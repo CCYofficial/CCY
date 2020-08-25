@@ -1727,7 +1727,8 @@ if (nHeight == 0) {
 
      } else if (nHeight > 234000 && nHeight <= 234010) {
                 nSubsidy = 300000 * COIN;
-
+      } else if (nHeight > 234010 && nHeight <= 300000) {
+                nSubsidy = 7 * COIN;
       } else if (nHeight <= 400000) {
                 nSubsidy = 10 * COIN;
       } else if (nHeight <= 500000) {
