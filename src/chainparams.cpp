@@ -159,7 +159,7 @@ public:
         nDefaultPort = 5535;
         bnProofOfWorkLimit = ~uint256(0) >> 18;
         nSubsidyHalvingInterval = 9999999;
-        nMaxReorganizationDepth = 10;
+        nMaxReorganizationDepth = 100;
         nEnforceBlockUpgradeMajority = 750;
         nRejectBlockOutdatedMajority = 950;
         nToCheckBlockUpgradeMajority = 1000;
