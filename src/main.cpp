@@ -3327,7 +3327,7 @@ bool CheckWork(const CBlock block, CBlockIndex* const pindexPrev)
     if (block.nBits != nBitsRequired)
         return error("%s : incorrect proof of work at %d", __func__, pindexPrev->nHeight + 1);
 
-    if (block.IsProofOfStake() && (pindexPrev->nHeight > 231000) && !IsInitialBlockDownload()) {
+    if (block.IsProofOfStake() && (pindexPrev->nHeight > 231100) && !IsInitialBlockDownload()) {
         uint256 hashProofOfStake;
         uint256 hash = block.GetHash();
 
