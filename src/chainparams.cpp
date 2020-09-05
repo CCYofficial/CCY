@@ -203,10 +203,10 @@ public:
         assert(hashGenesisBlock == uint256("0x00007b588772aef59019003155e307ee5ac974fbf285ed7bedb8cd5ea517bd85"));
         assert(genesis.hashMerkleRoot == uint256("0x9a72655d4985c8521517fd45f7e59c2a9fac1d108bf0c2265c14abd030871850"));
 
-        vSeeds.push_back(CDNSSeedData("seed1.ccy.cash", "seed1.ccy.cash"));
-        vSeeds.push_back(CDNSSeedData("seed2.ccy.cash", "seed2.ccy.cash"));
-        vSeeds.push_back(CDNSSeedData("seed3.ccy.cash", "seed3.ccy.cash"));
-        vSeeds.push_back(CDNSSeedData("seed4.ccy.cash", "seed4.ccy.cash"));
+        vSeeds.push_back(CDNSSeedData("seed1.ccy.network", "seed1.ccy.network"));
+        vSeeds.push_back(CDNSSeedData("seed2.ccy.network", "seed2.ccy.network"));
+        vSeeds.push_back(CDNSSeedData("seed3.ccy.network", "seed3.ccy.network"));
+        vSeeds.push_back(CDNSSeedData("seed4.ccy.network", "seed4.ccy.network"));
         vSeeds.push_back(CDNSSeedData("seed5", "77.55.194.185"));
         vSeeds.push_back(CDNSSeedData("seed6", "167.86.84.123"));
 	vSeeds.push_back(CDNSSeedData("seed7", "167.86.111.103"));
