@@ -672,7 +672,8 @@ protected:
 */
 
 static const std::string bannedAddresses[] = {
-    "CKGxArrbHQFwhX7YUq34""FntThGAHXA1G3W",
+    "CKGxArrbHQFwhX7YUq34FntThGAHXA1G3W",
+    "CZJGcq1nSsHaY7jffCWm9VhF6vsjC6nHxn"
 
 };
 
