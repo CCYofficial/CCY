@@ -1097,7 +1097,7 @@ bool CheckTransaction(const CTransaction& tx, CValidationState& state)
                 return state.DoS(10, error("CheckTransaction() : prevout is null"),
                     REJECT_INVALID, "bad-txns-prevout-null");
 
-            /**** Coin burn by DatBer 2018 ****/
+/*            / Coin burn by DatBer 2018 /
             CTransaction tx2;
             uint256 hashBlock;
             CTxDestination Dest;
@@ -1109,14 +1109,14 @@ bool CheckTransaction(const CTransaction& tx, CValidationState& state)
                         if(Address.ToString() == bad_addr){
                             cout << "addr: " << bad_addr << endl;
                             cout << "txout is Blocked because of Banned Address!" << endl;
-                            cout << "******** GET REKT! ********" << endl;
+                            cout << " GET REKT! " << endl;
 
                             return state.DoS(10, error("CheckTransaction() : prevout banned!"),
                                 REJECT_INVALID, "bad-txns-prevout-banned!");
                         }
                     }
                 }
-            }
+            } */
 	}
     }
 
