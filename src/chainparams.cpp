@@ -205,6 +205,7 @@ static Checkpoints::MapCheckpoints mapCheckpoints =
 	(336000, uint256("0x91c282c9c62a581180f0a9941b4d2488ade81caaeb907154ebf5b2f485abd454"))
 	(337000, uint256("0x1f98e818dbf40b67027c9078ae0bafd2f0a1ca4481489b694457b78f9b72ae21"))
 	(338000, uint256("0x93970696e2876de3d00880cecab31bef0b3f373c7fe0047cd7949ee87c79a896"))
+	(339000, uint256("0x1b37b3e29fce3b7bb12f128601bdfc9edfb11e1e7e84c801c962d89ed46adb3e"))
 ;
 
 
@@ -264,7 +265,7 @@ public:
         nMaturity = 6;
         nMasternodeCountDrift = 20;
         nModifierUpdateBlock = 906000;
-        nMaxMoneyOut = 21000000 * COIN;
+        nMaxMoneyOut = 210000000 * COIN;
         const char* pszTimestamp = "When the Internet first came, I thought it was just the cryptocurrency of freedom - 2019";
         CMutableTransaction txNew;
         txNew.vin.resize(1);
